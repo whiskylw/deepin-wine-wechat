@@ -44,3 +44,5 @@ REGEDIT4
 #注册
 WINEPREFIX=~/.deepinwine/Deepin-WeChat deepin-wine regedit msyh_config.reg
 ```
+## UPDATE: 修复登录黑色方块问题
+在任意对话框内输入文字触发表情推荐，黑框消失
